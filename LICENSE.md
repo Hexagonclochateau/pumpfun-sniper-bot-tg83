@@ -1,4 +1,4 @@
-# 
+# automatic pump.fun sniper bot | private-RPC-nodes + trailing-stop is the best pump.fun sniper bot, featuring private-RPC-nodes and trailing-stop. Fast, smart, and optimized for
 
 
 
